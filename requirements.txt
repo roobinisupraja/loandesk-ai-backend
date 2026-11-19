@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+openai-agents>=0.2
+python-dotenv>=1.0
+PyMySQL>=1.1
+cryptography>=42
+python-multipart>=0.0.9
+pypdf>=4.0
